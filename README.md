@@ -1,2 +1,11 @@
 # ubuntu-network-tools
-Ubuntu docker image with networking tools installed
+This Docker image uses Ubuntu as the base image and installs networking utilities:
+
+* `curl`
+* `telnet`
+* `nslookup`
+* `hostname`
+* `jq`
+
+
+
